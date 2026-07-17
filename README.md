@@ -13,13 +13,9 @@ rather than relying on rigid keyword matching.
 
 | Field | Detail |
 |---|---|
-| **Submitted by** | Aayushi Sharma |
+| **Submitted by** | Anshika Rani |
 | **College** | Moradabad Institute of Technology |
-| **Program** | B.Tech, Computer Science Engineering (AI & ML) |
 | **Internship Domain** | Artificial Intelligence |
-| **Company / Organization** | *(add here)* |
-| **Duration** | *(add here)* |
-| **Mentor** | *(add here)* |
 
 ---
 
