@@ -176,15 +176,14 @@ curl -X POST http://localhost:8000/api/chat \
 
 **Full Chatbot Interface**
 
-![Student Support Chatbot — Full UI](screenshots/screenshot-1-full-ui.png)
+![Student Support Chatbot — Full UI](screenshots/Student-chatbot.png)
 
 **Sample Conversations**
 
 | | |
 |---|---|
-| ![Sample Chat 1](screenshots/Student-chatbot.png) | ![Sample Chat 2](screenshots/Chat1.png) |
+| ![Sample Chat 1](screenshots/Chat1.png) | ![Sample Chat 2](screenshots/Chat2.png) |
 
-![Sample Chat 3](screenshots/Chat2.png)
 
 *(Images are picked up from the `screenshots/` folder at the project root.
 Add your files there using these exact names — `screenshot-1-full-ui.png`
