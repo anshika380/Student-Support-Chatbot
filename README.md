@@ -178,15 +178,7 @@ curl -X POST http://localhost:8000/api/chat \
 
 | | |
 |---|---|
-| ![Sample Chat 1](screenshots/Chat1.png) | ![Sample Chat 2](screenshots/Chat2.png) |
-
-
-*(Images are picked up from the `screenshots/` folder at the project root.
-Add your files there using these exact names — `screenshot-1-full-ui.png`
-for the full interface, and `screenshot-2-chat.png`, `screenshot-3-chat.png`,
-`screenshot-4-chat.png` for individual conversation examples. If you only
-have 2 chat screenshots, just delete the third image line above and its
-row entry.)*
+| ![Sample Chat 1](screenshots/Chat1.png) | ![Sample Chat 2](screenshots/Chat2.png) 
 
 ## 12. 🚀 Future Scope
 
